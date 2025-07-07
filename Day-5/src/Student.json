@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ABC",
+    "email": "abc@gmail.com",
+    "mobile": "1234567890"
+  },
+  {
+    "name": "BCD",
+    "email": "bcd@gmail.com",
+    "mobile": "9876543210"
+  },
+  {
+    "name": "CDE",
+    "email": "cde@gmail.com",
+    "mobile": "1122334455"
+  }
+]
