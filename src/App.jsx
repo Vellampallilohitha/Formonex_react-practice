@@ -1,5 +1,6 @@
 import fruits from "./fruits.json";
 
+
 function App() {
   return (
     <div>
@@ -20,5 +21,6 @@ function App() {
     </div>
   );
 }
+console.log(fruits);
 
 export default App;
