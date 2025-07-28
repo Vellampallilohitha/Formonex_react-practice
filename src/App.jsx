@@ -21,6 +21,6 @@ function App() {
     </div>
   );
 }
-console.log(fruits);
+console.log("fruits added");
 
 export default App;
